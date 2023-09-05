@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+    
+        h1{
+            position: absolute;
+            left: 40%;
+        }
+        td {
+            
+            text-align: center;
+            empty-cells: hide;
+            font-size: 14px;
+            width: 67px;
+            height: 60px;
+         }
+     
+
+    
+  
+.tbl{
+    display: flex;
+justify-content: center;
+}
+
+
+
+.lastitem td{
+  
+    background-color: #7FE5E5;
+ color:#031213;
+}
+
+
+.sndlastitem td{
+
+    background-color: #baa7ff;
+    color: #192235;
+
+}
+
+table tr{
+    margin-bottom: 10px;
+}
+
+
+#one{
+    background-color: #99E5B2;
+    color: #155715;
+}
+.ston td {
+    background-color: #99E5B2;
+    color: #155715;
+}
+
+#two{
+    /* background-color: #FFCCE5; */
+    background-color: #FFCCE5;
+    color: #cf1971;
+}
+#three{
+  background-color: #CCCCCC;
+  color: #332c17;
+  
+}
+#four{
+    background-color: #FFE57F;
+    color: rgb(105, 105, 0);
+}
+
+#six{
+
+    background-color: #EA8350;
+    color: #ffff;
+}
+
+
+#five{
+    
+    background-color: #FFCCB2;
+    color:#bb450a;
+}
+
+#front{
+    /* background-color: #aa4cb3; */
+    background-color: #9E87BD;
+    color:#4b0252;
+
+    
+}
+
+#b57{
+
+
+    background-color: #baa7ff;
+    color: #192235;
+}
+
+#ninty8{
+    
+    background-color: #7FE5E5;
+    color:#031213;
+
+}
+
+#to30{
+/* background-color: #B2E5FF; */
+background-color: 
+#B2CCFF
+;
+    color: #003f5f;
+}
